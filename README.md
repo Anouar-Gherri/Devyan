@@ -28,8 +28,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/devain.git
-    cd devain
+    git clone https://github.com/theyashwanthsai/Devyan.git
+    cd devyan
     ```
 
 2. Create a virtual environment:
